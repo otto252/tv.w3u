@@ -1,0 +1,211 @@
+ทีวี
+
+{
+name:"OTto TV",
+author:"Noname",
+"image": "https://sites.google.com/site/dragonballco2/_/rsrc/1491410761724/dragonball/taw-lakhr/phu-thea-tea/Maestro_Roshi_%28DB%29.png?height=400&width=248",
+
+stations:[
+
+{
+name:"CH5",
+image:"https://overseer.blackboxsys.net/images/png/hd-ch5.png",
+url:"http://61.19.242.134/feed/202105171329/ch5hd/index.m3u8"
+},
+{
+name:"CH5",
+image:"https://overseer.blackboxsys.net/images/png/hd-ch5.png",
+url:"https://smart-tv.livedoomovie.com:4431/02_5HD_720p/chunklist.m3u8"
+},
+{
+name:"NBT",
+image:"https://overseer.blackboxsys.net/images/png/sd-nbt.png",
+url:"http://61.19.242.134/feed/202105171329/chnbt/index.m3u8"
+},
+{
+name:"NBT",
+image:"https://overseer.blackboxsys.net/images/png/sd-nbt.png",
+url:"https://smart-tv.livedoomovie.com:4431/02_TRUEMUSIC_720p/chunklist.m3u8"
+},
+{
+name:"THAI PBS",
+image:"https://overseer.blackboxsys.net/images/png/hd-tpbs.png",
+url:"http://61.19.242.134/feed/202105171329/chthaipbs/index.m3u8"
+},
+{
+name:"THAI PBS",
+image:"https://overseer.blackboxsys.net/images/png/hd-tpbs.png",
+url:"http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8"
+},
+{
+name:"THAIRATH",
+image:"https://overseer.blackboxsys.net/images/png/hd-thairath.png",
+url:"http://61.19.242.134/feed/202105171329/chthairath/index.m3u8"
+},
+{
+name:"THAIRATH",
+image:"https://overseer.blackboxsys.net/images/png/hd-thairath.png",
+url:"https://smart-tv.livedoomovie.com:4431/02_THAIRATH_720p/chunklist.m3u8"
+},
+{
+name:"JKN 18 TV",
+image:"https://en.m.wikipedia.org/wiki/Astro_SuperSport#/media/File%3AAstro_Supersport_HD.png",
+url:"http://61.19.242.134/feed/202105171329/newtv/index.m3u8"
+},
+{
+name:"JKN 18 TV",
+image:"https://en.m.wikipedia.org/wiki/Astro_SuperSport#/media/File%3AAstro_Supersport_HD.png",
+url:"https://5f27aa1f6ef91.streamlock.net/jkncnbc/myStream/playlist.m3u8"
+},
+{
+name:"TNN",
+image:"https://en.m.wikipedia.org/wiki/Astro_SuperSport#/media/File%3AAstro_Supersport_HD.png",
+url:"http://61.19.242.134/feed/202105171329/chtnn/index.m3u8"
+},
+{
+name:"NATION TV",
+image:"https://en.m.wikipedia.org/wiki/Astro_SuperSport#/media/File%3AAstro_Supersport_HD.png",
+url:"http://61.19.242.134/feed/202105171329/chnation/index.m3u8"
+},
+{
+name:"NATION TV",
+image:"https://en.m.wikipedia.org/wiki/Astro_SuperSport#/media/File%3AAstro_Supersport_HD.png",
+url:"https://freelive2.inwstream.com:1936/freelive-edge/nation/playlist.m3u8"
+},
+{
+name:"WORKPOINT",
+image:"https://overseer.blackboxsys.net/images/png/hd-workpoint.png",
+url:"http://61.19.242.134/feed/202105171329/chworkpoint/index.m3u8"
+},
+{
+name:"WORKPOINT",
+image:"https://overseer.blackboxsys.net/images/png/hd-workpoint.png",
+url:"https://freelive2.inwstream.com:1936/freelive-edge/workpointtv/playlist.m3u8"
+},
+{
+name:"TRUE4U",
+image:"https://en.m.wikipedia.org/wiki/Astro_SuperSport#/media/File%3AAstro_Supersport_HD.png",
+url:"http://61.19.242.134/feed/202105171329/202105171329/chtrue4u/index.m3u8"
+},
+{
+name:"GMM 25",
+image:"https://overseer.blackboxsys.net/images/png/sd-gmmchannel.png",
+url:"http://61.19.242.134/feed/202105171329/chgmm/index.m3u8"
+},
+{
+name:"GMM 25",
+image:"https://overseer.blackboxsys.net/images/png/sd-gmmchannel.png",
+url:"https://smart-tv.livedoomovie.com:4431/02_GMM_720p/chunklist.m3u8"
+},
+{
+name:"CH8",
+image:"https://overseer.blackboxsys.net/images/png/hd-ch8.png",
+url:"http://61.19.242.134/feed/202105171329/ch8/index.m3u8"
+},
+{
+name:"CH8",
+image:"https://overseer.blackboxsys.net/images/png/hd-ch8.png",
+url:"https://smart-tv.livedoomovie.com:4431/02_8HD_720p/chunklist.m3u8"
+},
+{
+name:"MONO29",
+image:"https://overseer.blackboxsys.net/images/png/hd-mono.png",
+url:"http://61.19.242.134/feed/202105171329/chmono29/index.m3u8"
+},
+{
+name:"MONO29",
+image:"https://overseer.blackboxsys.net/images/png/hd-mono.png",
+url:"https://smart-tv.livedoomovie.com:4431/02_MONO_720p/chunklist.m3u8"
+},
+{
+name:"MCOT HD",
+image:"https://overseer.blackboxsys.net/images/png/hd-mcot.png",
+url:"http://61.19.242.134/feed/202105171329/chmcothd/index.m3u8"
+},
+{
+name:"MCOT HD",
+image:"https://overseer.blackboxsys.net/images/png/hd-mcot.png",
+url:"https://smart-tv.livedoomovie.com:4431/02_MCOTHD_720p/chunklist.m3u8"
+},
+{
+name:"GMM ONE HD",
+image:"https://overseer.blackboxsys.net/images/png/hd-gmmone.png",
+url:"http://61.19.242.134/feed/202105171329/chonehd/index.m3u8"
+},
+{
+name:"GMM ONE HD",
+image:"https://overseer.blackboxsys.net/images/png/hd-gmmone.png",
+url:"https://smart-tv.livedoomovie.com:4431/02_GMMONE_720p/chunklist.m3u8"
+},
+{
+name:"CH3 HD",
+image:"https://overseer.blackboxsys.net/images/png/hd-ch3.png",
+url:"http://61.19.242.134/feed/202105171329/ch3hd/index.m3u8"
+},
+{
+name:"CH3 HD",
+image:"https://overseer.blackboxsys.net/images/png/hd-ch3.png",
+url:"https://smart-tv.livedoomovie.com:4431/02_3HD_720p/chunklist.m3u8"
+},
+{
+name:"AMARIN TV",
+image:"https://overseer.blackboxsys.net/images/png/hd-amarin.png",
+url:"http://61.19.242.134/feed/202105171329/chamarin/index.m3u8"
+},
+{
+name:"AMARIN TV",
+image:"https://overseer.blackboxsys.net/images/png/hd-amarin.png",
+url:"https://smart-tv.livedoomovie.com:4431/02_AMARINHD_720p/chunklist.m3u8"
+},
+{
+name:"CH7 HD",
+image:"https://overseer.blackboxsys.net/images/png/hd-ch7.png",
+url:"http://61.19.242.134/feed/202105171329/ch7hd/index.m3u8"
+},
+{
+name:"CH7 HD",
+image:"https://overseer.blackboxsys.net/images/png/hd-ch7.png",
+url:"https://smart-tv.livedoomovie.com:4431/02_7HD_720p/chunklist.m3u8"
+},
+{
+name:"PPTV HD",
+image:"https://overseer.blackboxsys.net/images/png/hd-pptv.png",
+url:"http://61.19.242.134/feed/202105171329/chpptvhd/index.m3u8"
+},
+{
+name:"PPTV HD",
+image:"https://overseer.blackboxsys.net/images/png/hd-pptv.png",
+url:"https://smart-tv.livedoomovie.com:4431/02_PPTVHD_720p/chunklist.m3u8"
+},
+{
+name:"TOPNEWS",
+image:"https://i1.wp.com/www.songsue.co/wp-content/uploads/2021/01/toptvlogo.jpg?resize=225%2C225&ssl=1",
+url:"http://61.19.242.134/feed/202105171329/chtopnews/index.m3u8"
+},
+{
+name:"TOPNEWS",
+image:"https://i1.wp.com/www.songsue.co/wp-content/uploads/2021/01/toptvlogo.jpg?resize=225%2C225&ssl=1",
+url:"https://live.topnews.co.th/hls/topnews.m3u8"
+},
+{
+name:"BLUE SKY CHANEL",
+image:"https://www.blueskychannel.tv/wp-content/uploads/2021/06/Big-logo-BSC-web.png",
+url:"https://5ca295a97d887.streamlock.net/blueskychannel/blueskychannel/chunklist.m3u8"
+},
+{
+name:"TPTV",
+image:"https://upload.wikimedia.org/wikipedia/commons/7/7f/Thai_Parliament_TV_Logo.jpg",
+url:"https://cdn-edge.i-iptv.com/live3/91b1-ff25-f5ee-c27f-283a/chunklist_w104529751.m3u8"
+},
+{
+name:"TPTV",
+image:"https://i.imgur.com/Jrqo8JP.png",
+url:"http://live.parliament.go.th/livestream/tvparliament/playlist.m3u8"
+},
+{
+name:"VOICE TV",
+image:"https://i.imgur.com/Jrqo8JP.png",
+url:"https://edge6a.v2h-cdn.com/v2h/V2H9.stream_360p/chunklist_w1877077711.m3u8"
+},
+]
+}
